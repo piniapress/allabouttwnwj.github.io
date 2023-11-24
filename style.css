@@ -161,6 +161,14 @@ th, td {
     justify-content: space-between;
 }
 
+.ofert h1 {
+    color: lightskyblue;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
 .ofert-1 {
     display: flow-root;
     align-items: center;
@@ -207,7 +215,7 @@ th, td {
 }
 
 .products h2 {
-    color: palegreen;
+    color: lightcoral;
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
     text-transform: uppercase;
